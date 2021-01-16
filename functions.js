@@ -56,7 +56,7 @@ $(document).ready(function() {
 
 //open watch link
 $(document).ready(function()  {
-    $("#selection").click( function() {
+    $(".img-fluid").click( function() {
         window.open("https://www.instagram.com/seadsgn", "_blank");
     })
 })
