@@ -10,6 +10,7 @@ function print() {
 }
 let imageUrl = "C:\\Users\\toni2\\WebstormProjects\\untitled2\\sea";
 
+//change of logo on hover
 let whiteLogo = "Logos/whiteSea.png";
 let blackLogo = "Logos/blackSea.png";
 
@@ -30,6 +31,7 @@ $(document).ready(function() {
     });
 })
 
+//navbar color change on hover
 $(document).ready(function() {
     $(".navbar").on({
         mouseenter: (function() {
@@ -37,7 +39,7 @@ $(document).ready(function() {
         }),
         mouseleave: (function() {
         $(".navbar").css("background-color", "black");
-        this.src='mih.jpg'; })
+        })
     });})
 
     $(document).ready(function() {
@@ -51,4 +53,11 @@ $(document).ready(function() {
         })
     })
 });
+
+//open watch link
+$(document).ready(function()  {
+    $("#selection").click( function() {
+        window.open("https://www.instagram.com/seadsgn", "_blank");
+    })
+})
 
