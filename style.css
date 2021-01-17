@@ -249,6 +249,12 @@ No media query since this is the default in Bootstrap*/
         width: 567px !important;
         height: 250px !important;
     }*/
+    html, body {
+        overflow-x: hidden;
+    }
+    body {
+        position: relative
+    }
 }
 
 /*Medium (md) devices (tablets, 768px and up)*/
@@ -268,6 +274,12 @@ No media query since this is the default in Bootstrap*/
         font-size: 95%;
         padding: 8px 14px;
     }
+    html, body {
+        overflow-x: hidden;
+    }
+    body {
+        position: relative
+    }
 }
 
 /*Large (lg) devices (desktops, 992px and up)*/
@@ -276,11 +288,22 @@ No media query since this is the default in Bootstrap*/
         font-size: 4em;
         padding: 2rem;
     }
+    html, body {
+        overflow-x: hidden;
+    }
+    body {
+        position: relative
+    }
 }
 
 /*Extra (xl) large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) {
-
+@media (max-width: 1200px) {
+    html, body {
+        overflow-x: hidden;
+    }
+    body {
+        position: relative
+    }
 }
 
 
