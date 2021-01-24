@@ -11,8 +11,8 @@ function print() {
 let imageUrl = "C:\\Users\\toni2\\WebstormProjects\\untitled2\\sea";
 
 //change of logo on hover
-let whiteLogo = "Logos/whiteSea.png";
-let blackLogo = "Logos/blackSea.png";
+let whiteLogo = "Logos/7575trsseawht.png";
+let blackLogo = "Logos/7575seatrs.png";
 
 $(document).ready(function () {
     $(".navbar").on( 'mouseenter mouseleave', function () {
