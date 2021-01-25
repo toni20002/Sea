@@ -153,6 +153,10 @@ body {
     margin-bottom: 3rem;
 }
 
+.navbar-brand {
+    left: 0;
+}
+
 .carousel-caption {
     position: absolute;
     top: 50%;
@@ -266,6 +270,10 @@ No media query since this is the default in Bootstrap*/
     }
     .text-center {
         font-size: 23px;
+    }
+   /* logo not centered on mobile devices*/
+   .navbar-brand {
+            left: 0;
     }
 
 }
