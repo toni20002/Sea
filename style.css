@@ -126,7 +126,6 @@ figure {
 
 body {
     overflow-x: hidden;
-   // background-color: black;
     font-family: seaFutura;
 }
 
@@ -207,22 +206,16 @@ body {
 }
 
 .fa-facebook {
-    color: #3b5998;
+    color: black;
 }
-.fa-twitter {
-    color: #00aced;
-}
-.fa-google-plus-g {
-    color: #dd4b39;
+.fa-envelope {
+    color: black;
 }
 .fa-instagram {
-    color: #517fa8;
-}
-.fa-youtube {
-    color: #bb0000;
+    color: black;
 }
 
-.fa-youtube:hover, .fa-instagram:hover, .fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover {
+.fa-envelope:hover, .fa-instagram:hover, .fa-facebook:hover {
 
     color: #d5d5d5;
 }
@@ -274,6 +267,7 @@ No media query since this is the default in Bootstrap*/
     .text-center {
         font-size: medium;
     }
+
 }
 
 /*Medium (md) devices (tablets, 768px and up)*/
