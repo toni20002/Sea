@@ -3,28 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eaff0355-74cd-4e1b-ab94-be68ac5531b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/7575seatrs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/7575trsseawht.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/Black svg sea.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/White svg sea.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/blackSea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/blackSea.png" beforeDir="false" afterPath="$PROJECT_DIR$/Logos/blackSea.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logos/whiteSea.png" beforeDir="false" afterPath="$PROJECT_DIR$/Logos/whiteSea.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Watch3d.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/abs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon (1).ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ggg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mih.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/watch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/watch1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/watch2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/watch3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/whiteIcon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +66,8 @@
       <workItem from="1610905774406" duration="1579000" />
       <workItem from="1611306688395" duration="707000" />
       <workItem from="1611411897929" duration="1094000" />
-      <workItem from="1611442474979" duration="7934000" />
+      <workItem from="1611442474979" duration="8018000" />
+      <workItem from="1611530169004" duration="7928000" />
     </task>
     <servers />
   </component>
@@ -115,10 +97,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="618" y="301" width="611" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1610776492706" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1610824766214">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1611538732643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1610824766214" />
+    <state x="616" y="240" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611538732643" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610827264141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

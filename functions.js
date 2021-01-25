@@ -42,22 +42,12 @@ $(document).ready(function() {
         })
     });})
 
-    $(document).ready(function() {
-    $("button").click(function() {
-        $("p").hide();
-    });
 
-    $(document).ready(function() {
-        $("#div1").click(function () {
-            $("#div2").toggle()
-        })
-    })
-});
 
 //open watch link
-$(document).ready(function()  {
+/*$(document).ready(function()  {
     $(".img-fluid").click( function() {
         window.open("https://www.instagram.com/seadsgn", "_blank");
     })
-})
+}) */
 

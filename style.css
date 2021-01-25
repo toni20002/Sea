@@ -70,6 +70,7 @@ figure {
 .gif {
     max-width: 170px;
 }
+
 .card:hover .card-img-top{
     filter: grayscale(0%) !important;
     transition: 2.5s ease;
@@ -118,13 +119,17 @@ figure {
  #abs {
 
  }
+ @font-face {
+     font-family: seaFutura;
+     src: url("Futura Condensed Medium.otf");
+ }
+
 body {
     overflow-x: hidden;
    // background-color: black;
+    font-family: seaFutura;
 }
-#footer {
-    background-color: black;
-}
+
 .carousel-indicators .active {
     background-color: black;
 }
@@ -136,10 +141,10 @@ body {
     margin: auto;
 }
 .img-fluid:hover {
-    transform: translateY(-10px) translateX(10px);
-    opacity: 0.5;
-    cursor: pointer;
-    transition: 1s;
+   // transform: translateY(-10px) translateX(10px);
+  //  opacity: 0.5;
+  //  cursor: pointer;
+  //  transition: 1s;
    // box-shadow: -10px 10px red;
     // border-radius: 10px 5px;
 
@@ -174,9 +179,16 @@ body {
     padding: 1rem;
     border-radius: 0;
 }
-
+.lead {
+    font-size: 200%;
+}
 .padding {
     padding-bottom: 2rem;
+}
+
+.paddingKnowledge {
+    padding-bottom: 10px;
+    font-size: x-large;
 }
 
 .welcome {
@@ -216,7 +228,7 @@ body {
 }
 
 footer {
-    background-color: #3f3f3f;
+    background-color: black;
     color: white;
     padding-top: 2rem;
 }
@@ -253,16 +265,14 @@ No media query since this is the default in Bootstrap*/
     .carousel-indicators {
         display: none;
     }
- /* image resizing on phones
- .carousel-item img {
-        width: 567px !important;
-        height: 250px !important;
-    }*/
     html, body {
         overflow-x: hidden;
     }
     body {
         position: relative
+    }
+    .text-center {
+        font-size: medium;
     }
 }
 
