@@ -42,6 +42,8 @@ $(document).ready(function() {
         })
     });})
 
+
+//Responsive images/navbar on phones
 let smSlider1 = "SliderPhone/slider1.JPG";
 let smSlider2 = "SliderPhone/slider2.JPG";
 let smSlider3 = "SliderPhone/slider3.JPG";
@@ -53,10 +55,12 @@ $(document).ready(function () {
 
     if (currentWidth < 500) {
         $("#slider1").attr("src", smSlider1);
-        console.log("I changed the image to " + smSlider1);
+       // console.log("I changed the image to " + smSlider1);
         $("#slider2").attr("src", smSlider2);
         $("#slider3").attr("src", smSlider3);
         $("#creator").attr("src", smCreator);
+        $("#nav").height("55px");
+      //  console.log($("#nav").height());
     }
 })
 
