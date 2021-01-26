@@ -78,7 +78,6 @@ body {
 
 .watch:hover {
     filter:grayscale(0%) !important;
-    //transition: 1.5s ease;
 }
 .navbar-collapse {
     margin-top: 10px;
